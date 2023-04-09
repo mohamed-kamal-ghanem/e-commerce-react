@@ -12,7 +12,7 @@ const Navbar = () => {
       <Container>
         <Nav className='mr-auto'>
             {/* <Nav.Link to="/" as={NavLink}>Home</Nav.Link> */}
-            <Nav.Link to="/store" as={NavLink}>Store</Nav.Link>
+            <Nav.Link to="/" as={NavLink}>Store</Nav.Link>
             <Nav.Link to="/login" as={NavLink}>Login</Nav.Link>
         </Nav>
         <Button variant='outline-primary' className='rounded-circle' style={{position: "relative"}} onClick={openCart}>

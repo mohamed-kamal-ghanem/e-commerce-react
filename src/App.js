@@ -18,7 +18,7 @@ class App extends Component {
             <Navbar />
             <Container className="mb-4">
             <Routes>
-                <Route path="/store" element={<Store />} />
+                <Route path="/" element={<Store />} />
                 <Route path="/login" element={<About />} />
             </Routes>
         </Container>
