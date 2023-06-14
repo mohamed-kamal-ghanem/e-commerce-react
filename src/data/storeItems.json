@@ -3,90 +3,90 @@
       "id": 1,
       "name": "Book",
       "price": 10.99,
-      "imgUrl": "/imgs/book.jpg"
+      "imgUrl": "./imgs/book.jpg"
     },
     {
       "id": 2,
       "name": "Computer",
       "price": 1199,
-      "imgUrl": "/imgs/computer.jpg"
+      "imgUrl": "./imgs/computer.jpg"
     },
     {
       "id": 3,
       "name": "Banana",
       "price": 1.05,
-      "imgUrl": "/imgs/banana.jpg"
+      "imgUrl": "./imgs/banana.jpg"
     },
     {
       "id": 4,
       "name": "Car",
       "price": 14000,
-      "imgUrl": "/imgs/car.jpg"
+      "imgUrl": "./imgs/car.jpg"
     },
     {
       "id": 5,
       "name": "Cargo car",
       "price": 140000,
-      "imgUrl": "/imgs/202304-0811-1020-10a1a68a-3262-4a2c-8a14-0a02846f29b5_1680952220.png"
+      "imgUrl": "./imgs/202304-0811-1020-10a1a68a-3262-4a2c-8a14-0a02846f29b5_1680952220.png"
     },
     {
       "id": 6,
       "name": "Wristwatch",
       "price": 150,
-      "imgUrl": "/imgs/348520Image1-1180x677_d.jpg"
+      "imgUrl": "./imgs/348520Image1-1180x677_d.jpg"
     },
     {
       "id": 7,
       "name": "Rexona",
       "price": 85,
-      "imgUrl": "/imgs/download.jpg"
+      "imgUrl": "./imgs/download.jpg"
     },
     {
       "id": 8,
       "name": "Bee Honey",
       "price": 100,
-      "imgUrl": "/imgs/images (1).jpg"
+      "imgUrl": "./imgs/images (1).jpg"
     },
     {
       "id": 9,
       "name": "Phone",
       "price": 4000,
-      "imgUrl": "/imgs/images.jpg"
+      "imgUrl": "./imgs/images.jpg"
     },
     {
       "id": 10,
       "name": "Red Bull",
       "price": 10,
-      "imgUrl": "/imgs/l.jpg"
+      "imgUrl": "./imgs/l.jpg"
     },
     {
       "id": 11,
       "name": "Pepsi",
       "price": 8,
-      "imgUrl": "/imgs/photo-1553456558-aff63285bdd1.jpg"
+      "imgUrl": "./imgs/photo-1553456558-aff63285bdd1.jpg"
     },
     {
       "id": 12,
       "name": "Perfume",
       "price": 250,
-      "imgUrl": "/imgs/search_large-image-46910-close-up-perfume-bottle-perfuming-perfuming-art-photograph.jpg"
+      "imgUrl": "./imgs/search_large-image-46910-close-up-perfume-bottle-perfuming-perfuming-art-photograph.jpg"
     },
     {
       "id": 13,
       "name": "Smart watch",
       "price": 300,
-      "imgUrl": "/imgs/photo-1523275335684-37898b6baf30.jpg"
+      "imgUrl": "./imgs/photo-1523275335684-37898b6baf30.jpg"
     },
     {
       "id": 14,
       "name": "shoes",
       "price": 230,
-      "imgUrl": "/imgs/المنتجات-الاكثر-مبيعا-في-العالم.jpg"
+      "imgUrl": "./imgs/المنتجات-الاكثر-مبيعا-في-العالم.jpg"
     },
     {
       "id": 15,
       "name": "Starbucks",
       "price": 35,
-      "imgUrl": "/imgs/starbuks.png"
+      "imgUrl": "./imgs/starbuks.png"
     }
   ]
